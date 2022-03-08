@@ -1,0 +1,7 @@
+D:\PV C#\PV_Tugas4.2\PV_Tugas4.2\obj\Debug\PV_Tugas4.2.csprojResolveAssemblyReference.cache
+D:\PV C#\PV_Tugas4.2\PV_Tugas4.2\obj\Debug\PV_Tugas4._.MainForm.resources
+D:\PV C#\PV_Tugas4.2\PV_Tugas4.2\obj\Debug\PV_Tugas4.2.csproj.GenerateResource.Cache
+D:\PV C#\PV_Tugas4.2\PV_Tugas4.2\bin\Debug\PV_Tugas4.2.exe
+D:\PV C#\PV_Tugas4.2\PV_Tugas4.2\bin\Debug\PV_Tugas4.2.pdb
+D:\PV C#\PV_Tugas4.2\PV_Tugas4.2\obj\Debug\PV_Tugas4.2.exe
+D:\PV C#\PV_Tugas4.2\PV_Tugas4.2\obj\Debug\PV_Tugas4.2.pdb

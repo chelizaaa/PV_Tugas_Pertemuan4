@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PV_Tugas4.1", "PV_Tugas4.1\PV_Tugas4.1.csproj", "{D27D1511-0ADF-4089-8E9D-518D08C12E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D27D1511-0ADF-4089-8E9D-518D08C12E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27D1511-0ADF-4089-8E9D-518D08C12E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27D1511-0ADF-4089-8E9D-518D08C12E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27D1511-0ADF-4089-8E9D-518D08C12E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
